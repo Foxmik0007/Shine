@@ -17,7 +17,37 @@ button {
 }
 
 .forms {
-  padding: 3em;
+  padding: 5em;
   background-color: #FFF8E7;
   border: none;
+  border-radius: 40px;
 }
+
+.credential, .service-choice, .expert-choice, .time-choice {
+  display: flex;
+  flex-direction: column;
+  padding : 2em 10% 2em 10%;
+}
+
+#name, #email {
+  padding-left: 25px;
+  border-radius: 40px;
+  display: flex ;
+}
+
+.credential {
+  display: flex;
+  flex-direction: column;
+  padding : 0 10% 0 10%;
+}
+
+
+.row {
+  padding-bottom: 2%;
+}
+ .form-check-expert {
+   padding: 1em 0 1em 5em;
+
+ }
+
+
