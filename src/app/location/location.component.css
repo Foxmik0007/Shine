@@ -5,3 +5,10 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
+.card {
+  background-color: #FFF8E7;
+  border: none;
+  padding: 4em;
+  border-radius: 40px;
+}
