@@ -9,3 +9,9 @@ h2 {
 .about {
   text-align: center;
 }
+
+.container {
+  border-radius: 40px;
+  background-color: #FFF8E7;
+  padding: 1em;
+}

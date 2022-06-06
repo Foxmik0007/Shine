@@ -13,3 +13,17 @@ h2 {
 .booking {
   text-align: center;
 }
+
+.services {
+  background-color: #f5ebd5;
+  padding: 3em;
+  border-radius: 40px;
+}
+
+.card {
+  border-radius: 40px;
+  background-color: #fff8e7;
+  border: none;
+}
+
+
