@@ -5,3 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Course : SEG 3525
 
 # Creator : Mika Rafaralahy
+
+#Run
+
+To run the app use ng serve
