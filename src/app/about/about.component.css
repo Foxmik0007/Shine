@@ -1,3 +1,11 @@
 .subtitle {
   padding-bottom: 30px;
 }
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  text-align: center;
+}

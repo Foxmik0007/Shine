@@ -5,3 +5,11 @@ h2 {
 .row {
   margin-bottom: 30px;
 }
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.booking {
+  text-align: center;
+}

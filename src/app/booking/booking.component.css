@@ -1,0 +1,23 @@
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+
+button {
+  width: 20em;
+  background-color: #E86868;
+  border: none;
+  border-radius: 40px;
+
+}
+
+.confirm {
+  text-align: center;
+}
+
+.forms {
+  padding: 3em;
+  background-color: #FFF8E7;
+  border: none;
+}

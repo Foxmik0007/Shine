@@ -1,8 +1,11 @@
-div {
-  display: flex;
-
-}
 
 .section {
   margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+app-experts {
+  width: 40em;
 }
