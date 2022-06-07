@@ -9,10 +9,11 @@ h2 {
 }
 
 .card {
-  background-color: #FFF8E7;
+  background-color: #f5ebd5;
   border: none;
   padding: 4em;
   border-radius: 40px;
+  opacity: 0.9;
 }
  div {
    font-family: Oregano;

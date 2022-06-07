@@ -1,6 +1,8 @@
 h2 {
   display: flex;
   justify-content: center;
+  font-family: Oregano;
+  color:  #E86868;
 }
 
 
@@ -18,7 +20,8 @@ button {
 
 .forms {
   padding: 5em 5em 5em 5em;
-  background-color: #FFF8E7;
+  background-color: #f5ebd5;
+  opacity: 0.9;
   border: none;
   border-radius: 40px;
 }
