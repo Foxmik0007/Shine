@@ -10,6 +10,8 @@
 h2 {
   display: flex;
   justify-content: center;
+  font-family: Oregano;
+  color : #e86868
 }
 
 .worker {
@@ -21,4 +23,14 @@ h2 {
 
 img {
   border-radius: inherit;
+}
+
+p{
+  font-family: Oregano;
+  font-size: 1.1em;
+}
+
+b {
+  color : #e86868;
+  font-size: 1.3em;
 }

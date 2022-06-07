@@ -6,3 +6,19 @@
   width: 100%;
 }
 
+@font-face {
+  font-family: Oregano;
+  src: url(../assets/fonts/Oregano/Oregano-Regular.ttf);
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(../assets/fonts/Montserrat/static/Montserrat-Regular.ttf);
+}
+
+h1 {
+  font-family: Oregano;
+  font-size: 6em;
+  color: #762F2F;
+}
+

@@ -4,6 +4,8 @@
 h2 {
   display: flex;
   justify-content: center;
+  font-family: Oregano;
+  color: #e86868;
 }
 
 .card {
@@ -12,3 +14,12 @@ h2 {
   padding: 4em;
   border-radius: 40px;
 }
+ div {
+   font-family: Oregano;
+   font-size: 1.1em;
+ }
+
+ p {
+   color: #e86868;
+ }
+

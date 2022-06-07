@@ -26,4 +26,12 @@ h2 {
   border: none;
 }
 
+h2{
+  font-family: Oregano;
+  color: #e86868;
+}
 
+p{
+  font-family: Oregano;
+  font-size: 1.4em;
+}

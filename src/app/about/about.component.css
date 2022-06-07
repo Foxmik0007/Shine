@@ -4,6 +4,8 @@
 h2 {
   display: flex;
   justify-content: center;
+  font-family: Oregano;
+  color: #e86868
 }
 
 .about {
@@ -14,4 +16,17 @@ h2 {
   border-radius: 40px;
   background-color: #FFF8E7;
   padding: 1em;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    padding: 2% 15% 2% 15%;
+  background-color:#FFF8E7 ;
+  border-radius: 40px;
+}
+
+p {
+  font-family: Montserrat;
+  font-size: 1.3em;
 }

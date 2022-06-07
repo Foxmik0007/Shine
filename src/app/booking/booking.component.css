@@ -17,7 +17,7 @@ button {
 }
 
 .forms {
-  padding: 5em;
+  padding: 5em 5em 5em 5em;
   background-color: #FFF8E7;
   border: none;
   border-radius: 40px;
@@ -50,4 +50,25 @@ button {
 
  }
 
+h3 {
+  font-family: Oregano;
+  color: #e86868;
+}
+
+label {
+  font-family: Oregano;
+  font-size: 1.3em;
+  padding-left: 1em;
+}
+
+input {
+  font-family: Oregano;
+  border-radius: 40px;
+  font-size: 1.3em;
+}
+
+button {
+  font-family: Oregano;
+  font-size: 1.4em;
+}
 
