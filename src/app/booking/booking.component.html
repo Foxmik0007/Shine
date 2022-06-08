@@ -1,6 +1,7 @@
 
 <h2> Booking </h2>
 
+
 <div class="forms">
 <h3> Please fill this form for an appointment for clothes measurement.</h3>
 
@@ -111,11 +112,19 @@
 
     </div>
 
-
     <div class="confirm">
-      <button class="btn btn-success"> Confirm </button>
+      <button class="confirm-button" (click)="alertOnClick()"> Confirm </button>
     </div>
 
   </form>
+
+
+
+  <div *ngIf="alert" class="alert alert-warning alert-dismissible fade show" role="alert" id="alert">
+    <strong>Thank you for confirming ! </strong> See you very soon.
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close" (click)="close()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
 
 </div>

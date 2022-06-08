@@ -6,7 +6,7 @@ h2 {
 }
 
 
-button {
+.confirm-button {
   width: 20em;
   background-color: #E86868;
   border: none;
@@ -70,8 +70,13 @@ input {
   font-size: 1.3em;
 }
 
-button {
+.confirm-button {
   font-family: Oregano;
   font-size: 1.4em;
+  color: white;
+}
+
+#alert {
+  margin-top: 2em;
 }
 

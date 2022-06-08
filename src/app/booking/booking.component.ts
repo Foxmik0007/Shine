@@ -7,9 +7,19 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BookingComponent implements OnInit {
 
+  alert:boolean =false
+
   constructor() { }
 
   ngOnInit(): void {
   }
 
+
+  alertOnClick() {
+    this.alert=true
+}
+
+close(){
+    this.alert=false
+}
 }
