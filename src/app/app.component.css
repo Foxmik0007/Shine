@@ -26,3 +26,21 @@ body {
   background-color: #fff8e7;
 }
 
+#navy {
+  position: fixed;
+  background: rgb(235,177,83);
+  background: linear-gradient(173deg,  #FFF8E7 31%, rgba(252,176,69,0) 55%);
+}
+
+a {
+  color: #762F2F;
+  font-family: Oregano;
+  font-size: 1.6em;
+}
+
+a:hover {
+  background: rgb(251,173,63);
+  background: linear-gradient(106deg, rgba(251,173,63,1) 0%, rgba(232,104,104,1) 100%);
+  color: white;
+  border-radius: 15px;
+}
