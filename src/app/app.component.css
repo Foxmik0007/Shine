@@ -44,3 +44,7 @@ a:hover {
   color: white;
   border-radius: 15px;
 }
+
+li {
+  height: inherit;
+}
